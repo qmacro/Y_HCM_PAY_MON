@@ -3,7 +3,6 @@
   "routes": [
     {
       "path": "/sap/opu/odata",
-      "wattUsage": "odata_abap",
       "target": {
         "type": "destination",
         "name": "NGS",
@@ -13,7 +12,6 @@
     },
     {
       "path": "/sap/bc/ui5_ui5",
-      "wattUsage": "ui5_execute_abap",
       "target": {
         "type": "destination",
         "name": "NGS",
